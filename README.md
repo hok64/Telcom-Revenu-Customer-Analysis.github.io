@@ -97,15 +97,15 @@ The dataset was fully generated and simulated using Python.
 
 ## Executive Overview
 
-[images](dashboard1.png)
+![images](dashboard1.png)
 
 ## Customer Analytics
 
-[Images](dashboard2.png)
+![Images](dashboard2.png)
 
 ## Usage Analytics
 
-[Images](dashboard3.png)
+![Images](dashboard3.png)
 
 ---
 
