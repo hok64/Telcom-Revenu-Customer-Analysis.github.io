@@ -1,0 +1,5 @@
+plan_id,plan_name,monthly_fee
+1,Basic,5
+2,Silver,10
+3,Gold,20
+4,Unlimited,40
