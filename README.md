@@ -1,4 +1,4 @@
-# # 📊 Telecom Revenue & Customer Analytics Dashboard
+# # 📊 Telecom Revenue & Customer Analytics
 
 ## 📌 Project Overview
 
